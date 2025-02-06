@@ -1,4 +1,4 @@
-#!/Users/keshav/python_django/Nudity/venv/bin/python
+#!/var/www/shiwkesh/nudity/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys

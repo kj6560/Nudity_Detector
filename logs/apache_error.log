@@ -1,0 +1,247 @@
+[Thu Feb 06 10:03:42.255101 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52992] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:03:42.255216 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52992] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:03:42.265847 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52992] Traceback (most recent call last):
+[Thu Feb 06 10:03:42.265904 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52992]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:03:42.265915 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52992]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:03:42.265940 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52992] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:03:42.450554 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52993] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:03:42.450626 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52993] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:03:42.450747 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52993] Traceback (most recent call last):
+[Thu Feb 06 10:03:42.450783 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52993]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:03:42.450792 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52993]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:03:42.450816 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52993] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:03:49.559557 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52997] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:03:49.559614 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52997] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:03:49.559694 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52997] Traceback (most recent call last):
+[Thu Feb 06 10:03:49.559716 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52997]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:03:49.559722 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52997]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:03:49.559736 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:52997] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:03:49.715985 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:34180] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:03:49.716076 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:34180] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:03:49.716240 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:34180] Traceback (most recent call last):
+[Thu Feb 06 10:03:49.716292 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:34180]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:03:49.716304 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:34180]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:03:49.716337 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:34180] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:05:01.901542 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53025] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:01.901598 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53025] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:01.901676 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53025] Traceback (most recent call last):
+[Thu Feb 06 10:05:01.901697 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53025]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:05:01.901702 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53025]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:05:01.901717 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53025] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:05:02.044877 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53026] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:02.044926 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53026] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:02.045009 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53026] Traceback (most recent call last):
+[Thu Feb 06 10:05:02.045031 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53026]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:05:02.045037 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53026]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:05:02.045054 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53026] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:05:48.023460 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:61957] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:48.023577 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:61957] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:48.023769 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:61957] Traceback (most recent call last):
+[Thu Feb 06 10:05:48.023826 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:61957]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:05:48.023840 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:61957]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:05:48.023878 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:61957] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:05:48.163840 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53040] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:48.163893 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53040] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:48.163953 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53040] Traceback (most recent call last):
+[Thu Feb 06 10:05:48.163968 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53040]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:05:48.163971 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53040]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:05:48.163982 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53040] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:05:54.380185 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53044] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:54.380295 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53044] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:54.380487 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53044] Traceback (most recent call last):
+[Thu Feb 06 10:05:54.380544 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53044]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:05:54.380558 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53044]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:05:54.380596 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53044] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:05:54.553412 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53043] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:54.553512 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53043] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:05:54.553696 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53043] Traceback (most recent call last):
+[Thu Feb 06 10:05:54.553753 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53043]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:05:54.553767 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53043]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:05:54.553804 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53043] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:08:02.166571 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53087] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:08:02.166617 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53087] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:08:02.166696 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53087] Traceback (most recent call last):
+[Thu Feb 06 10:08:02.166719 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53087]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:08:02.166724 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53087]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:08:02.166739 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53087] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:08:02.472986 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53088] mod_wsgi (pid=2669391): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:08:02.473032 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53088] mod_wsgi (pid=2669391): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:08:02.473107 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53088] Traceback (most recent call last):
+[Thu Feb 06 10:08:02.473127 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53088]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:08:02.473132 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53088]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:08:02.473148 2025] [wsgi:error] [pid 2669391] [remote 152.58.122.52:53088] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:15:57.130893 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:19862] mod_wsgi (pid=2670967): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:15:57.130941 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:19862] mod_wsgi (pid=2670967): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:15:57.135062 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:19862] Traceback (most recent call last):
+[Thu Feb 06 10:15:57.135090 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:19862]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:15:57.135095 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:19862]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:15:57.135107 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:19862] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:15:57.346886 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53239] mod_wsgi (pid=2670967): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:15:57.346964 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53239] mod_wsgi (pid=2670967): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:15:57.347161 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53239] Traceback (most recent call last):
+[Thu Feb 06 10:15:57.347215 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53239]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:15:57.347228 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53239]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:15:57.347263 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53239] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:16:20.969744 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53249] mod_wsgi (pid=2670967): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:16:20.969841 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53249] mod_wsgi (pid=2670967): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:16:20.969998 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53249] Traceback (most recent call last):
+[Thu Feb 06 10:16:20.970044 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53249]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:16:20.970056 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53249]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:16:20.970087 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53249] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:16:21.236984 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53250] mod_wsgi (pid=2670967): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:16:21.237017 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53250] mod_wsgi (pid=2670967): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:16:21.237074 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53250] Traceback (most recent call last):
+[Thu Feb 06 10:16:21.237089 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53250]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:16:21.237092 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53250]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:16:21.237102 2025] [wsgi:error] [pid 2670967] [remote 152.58.122.52:53250] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:24:46.612235 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53385] mod_wsgi (pid=2672040): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:24:46.612339 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53385] mod_wsgi (pid=2672040): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:24:46.623040 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53385] Traceback (most recent call last):
+[Thu Feb 06 10:24:46.623095 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53385]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:24:46.623105 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53385]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:24:46.623130 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53385] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:24:46.784175 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:7312] mod_wsgi (pid=2672040): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:24:46.784222 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:7312] mod_wsgi (pid=2672040): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:24:46.784297 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:7312] Traceback (most recent call last):
+[Thu Feb 06 10:24:46.784316 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:7312]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:24:46.784321 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:7312]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:24:46.784334 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:7312] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:34:38.094668 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53601] mod_wsgi (pid=2672040): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:38.094743 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53601] mod_wsgi (pid=2672040): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:38.095050 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53601] Traceback (most recent call last):
+[Thu Feb 06 10:34:38.095091 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53601]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:34:38.095100 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53601]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:34:38.095125 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53601] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:34:38.313331 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53600] mod_wsgi (pid=2672040): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:38.313415 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53600] mod_wsgi (pid=2672040): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:38.313561 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53600] Traceback (most recent call last):
+[Thu Feb 06 10:34:38.313605 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53600]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:34:38.313616 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53600]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:34:38.313647 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53600] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:34:44.475250 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53606] mod_wsgi (pid=2672040): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:44.475288 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53606] mod_wsgi (pid=2672040): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:44.475351 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53606] Traceback (most recent call last):
+[Thu Feb 06 10:34:44.475367 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53606]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:34:44.475372 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53606]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:34:44.475383 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53606] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:34:44.615120 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53607] mod_wsgi (pid=2672040): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:44.615221 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53607] mod_wsgi (pid=2672040): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:44.615405 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53607] Traceback (most recent call last):
+[Thu Feb 06 10:34:44.615460 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53607]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:34:44.615474 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53607]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:34:44.615511 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53607] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:34:59.709687 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53623] mod_wsgi (pid=2672040): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:59.709746 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53623] mod_wsgi (pid=2672040): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:59.709839 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53623] Traceback (most recent call last):
+[Thu Feb 06 10:34:59.709866 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53623]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:34:59.709873 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53623]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:34:59.709891 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53623] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:34:59.852476 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53624] mod_wsgi (pid=2672040): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:59.852556 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53624] mod_wsgi (pid=2672040): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:34:59.852701 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53624] Traceback (most recent call last):
+[Thu Feb 06 10:34:59.852745 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53624]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:34:59.852756 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53624]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:34:59.852787 2025] [wsgi:error] [pid 2672040] [remote 152.58.122.52:53624] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:37:40.040228 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53673] mod_wsgi (pid=2673625): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:37:40.040343 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53673] mod_wsgi (pid=2673625): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:37:40.051201 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53673] Traceback (most recent call last):
+[Thu Feb 06 10:37:40.051258 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53673]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:37:40.051269 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53673]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:37:40.051295 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53673] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 10:37:40.235245 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53674] mod_wsgi (pid=2673625): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:37:40.235320 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53674] mod_wsgi (pid=2673625): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 10:37:40.235443 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53674] Traceback (most recent call last):
+[Thu Feb 06 10:37:40.235480 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53674]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 10:37:40.235489 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53674]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 10:37:40.235515 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:53674] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 11:02:49.393435 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54134] mod_wsgi (pid=2673625): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 11:02:49.393525 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54134] mod_wsgi (pid=2673625): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 11:02:49.393683 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54134] Traceback (most recent call last):
+[Thu Feb 06 11:02:49.393731 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54134]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 11:02:49.393743 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54134]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 11:02:49.393775 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54134] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 11:02:49.577147 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54135] mod_wsgi (pid=2673625): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 11:02:49.577218 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54135] mod_wsgi (pid=2673625): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 11:02:49.577353 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54135] Traceback (most recent call last):
+[Thu Feb 06 11:02:49.577394 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54135]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 11:02:49.577404 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54135]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 11:02:49.577430 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54135] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 11:04:44.487186 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54182] mod_wsgi (pid=2673625): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 11:04:44.487310 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54182] mod_wsgi (pid=2673625): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 11:04:44.487504 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54182] Traceback (most recent call last):
+[Thu Feb 06 11:04:44.487558 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54182]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 11:04:44.487565 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54182]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 11:04:44.487583 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54182] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 11:04:44.643144 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54183] mod_wsgi (pid=2673625): Failed to exec Python script file '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 11:04:44.643203 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54183] mod_wsgi (pid=2673625): Exception occurred processing WSGI script '/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py'.
+[Thu Feb 06 11:04:44.643321 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54183] Traceback (most recent call last):
+[Thu Feb 06 11:04:44.643356 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54183]   File "/var/www/shiwkesh/nudity/NudityDetector/NudityDetector/wsgi.py", line 12, in <module>
+[Thu Feb 06 11:04:44.643365 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54183]     from django.core.wsgi import get_wsgi_application
+[Thu Feb 06 11:04:44.643388 2025] [wsgi:error] [pid 2673625] [remote 152.58.122.52:54183] ModuleNotFoundError: No module named 'django'
+[Thu Feb 06 11:07:57.688429 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54253] Forbidden: /myapp/users/
+[Thu Feb 06 11:07:57.809463 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54253] Not Found: /static/rest_framework/css/bootstrap.min.css
+[Thu Feb 06 11:07:57.821922 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54252] Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[Thu Feb 06 11:07:57.888723 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54253] Not Found: /static/rest_framework/css/default.css
+[Thu Feb 06 11:07:57.896441 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54252] Not Found: /static/rest_framework/css/prettify.css
+[Thu Feb 06 11:07:57.970118 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54253] Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+[Thu Feb 06 11:07:57.980021 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54252] Not Found: /static/rest_framework/js/ajax-form.js
+[Thu Feb 06 11:07:57.988769 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54255] Not Found: /static/rest_framework/js/csrf.js
+[Thu Feb 06 11:07:57.998144 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54258] Not Found: /static/rest_framework/js/bootstrap.min.js
+[Thu Feb 06 11:07:58.006467 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54257] Not Found: /static/rest_framework/js/default.js
+[Thu Feb 06 11:07:58.013624 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:14482] Not Found: /static/rest_framework/js/prettify-min.js
+[Thu Feb 06 11:07:58.058941 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54253] Not Found: /static/rest_framework/js/load-ajax-form.js
+[Thu Feb 06 11:07:58.159413 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54253] Not Found: /favicon.ico
+[Thu Feb 06 11:08:05.884066 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54265] Forbidden: /myapp/users/
+[Thu Feb 06 11:08:06.021517 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54264] Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[Thu Feb 06 11:08:06.022708 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54265] Not Found: /static/rest_framework/css/bootstrap.min.css
+[Thu Feb 06 11:08:06.156543 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54265] Not Found: /static/rest_framework/css/prettify.css
+[Thu Feb 06 11:08:06.163990 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54264] Not Found: /static/rest_framework/css/default.css
+[Thu Feb 06 11:08:06.229586 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54267] Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+[Thu Feb 06 11:08:06.237312 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54265] Not Found: /static/rest_framework/js/bootstrap.min.js
+[Thu Feb 06 11:08:06.258333 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54264] Not Found: /static/rest_framework/js/default.js
+[Thu Feb 06 11:08:06.268370 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54268] Not Found: /static/rest_framework/js/prettify-min.js
+[Thu Feb 06 11:08:06.283015 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54266] Not Found: /static/rest_framework/js/ajax-form.js
+[Thu Feb 06 11:08:06.283499 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54269] Not Found: /static/rest_framework/js/csrf.js
+[Thu Feb 06 11:08:06.307144 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54267] Not Found: /static/rest_framework/js/load-ajax-form.js
+[Thu Feb 06 11:08:06.410111 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54267] Not Found: /favicon.ico
+[Thu Feb 06 11:11:39.395410 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:42274] Forbidden: /myapp/users/
+[Thu Feb 06 11:11:39.523874 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:42274] Not Found: /static/rest_framework/css/bootstrap.min.css
+[Thu Feb 06 11:11:39.539983 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54329] Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[Thu Feb 06 11:11:39.601251 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:42274] Not Found: /static/rest_framework/css/prettify.css
+[Thu Feb 06 11:11:39.609701 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54329] Not Found: /static/rest_framework/css/default.css
+[Thu Feb 06 11:11:39.695074 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:42274] Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+[Thu Feb 06 11:11:39.709855 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54332] Not Found: /static/rest_framework/js/bootstrap.min.js
+[Thu Feb 06 11:11:39.721822 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54329] Not Found: /static/rest_framework/js/default.js
+[Thu Feb 06 11:11:39.733364 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54333] Not Found: /static/rest_framework/js/ajax-form.js
+[Thu Feb 06 11:11:39.753656 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54331] Not Found: /static/rest_framework/js/csrf.js
+[Thu Feb 06 11:11:39.757437 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:54334] Not Found: /static/rest_framework/js/prettify-min.js
+[Thu Feb 06 11:11:39.802855 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:42274] Not Found: /static/rest_framework/js/load-ajax-form.js
+[Thu Feb 06 11:11:39.922105 2025] [wsgi:error] [pid 2676891] [remote 152.58.122.52:42274] Not Found: /favicon.ico
+[Thu Feb 06 11:14:41.681193 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54390] Forbidden: /myapp/users/
+[Thu Feb 06 11:14:41.791434 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54390] Not Found: /static/rest_framework/css/bootstrap.min.css
+[Thu Feb 06 11:14:41.794951 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54389] Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[Thu Feb 06 11:14:42.022535 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54389] Not Found: /static/rest_framework/css/default.css
+[Thu Feb 06 11:14:42.026381 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54390] Not Found: /static/rest_framework/css/prettify.css
+[Thu Feb 06 11:14:42.113716 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54390] Not Found: /static/rest_framework/js/default.js
+[Thu Feb 06 11:14:42.130970 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54389] Not Found: /static/rest_framework/js/prettify-min.js
+[Thu Feb 06 11:14:42.158676 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54396] Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+[Thu Feb 06 11:14:42.176216 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54393] Not Found: /static/rest_framework/js/csrf.js
+[Thu Feb 06 11:14:42.184567 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54394] Not Found: /static/rest_framework/js/ajax-form.js
+[Thu Feb 06 11:14:42.194919 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54395] Not Found: /static/rest_framework/js/bootstrap.min.js
+[Thu Feb 06 11:14:42.223211 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54390] Not Found: /static/rest_framework/js/load-ajax-form.js
+[Thu Feb 06 11:14:42.341791 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54390] Not Found: /favicon.ico
+[Thu Feb 06 11:15:12.167537 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:6414] Forbidden: /myapp/users/
+[Thu Feb 06 11:15:12.285683 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:6414] Not Found: /static/rest_framework/css/prettify.css
+[Thu Feb 06 11:15:12.301147 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54405] Not Found: /static/rest_framework/css/default.css
+[Thu Feb 06 11:15:12.361124 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:6414] Not Found: /static/rest_framework/css/bootstrap-tweaks.css
+[Thu Feb 06 11:15:12.385206 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54405] Not Found: /static/rest_framework/css/bootstrap.min.css
+[Thu Feb 06 11:15:12.437324 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54407] Not Found: /static/rest_framework/js/jquery-3.7.1.min.js
+[Thu Feb 06 11:15:12.451940 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:6414] Not Found: /static/rest_framework/js/ajax-form.js
+[Thu Feb 06 11:15:12.459822 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54408] Not Found: /static/rest_framework/js/csrf.js
+[Thu Feb 06 11:15:12.468452 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54409] Not Found: /static/rest_framework/js/bootstrap.min.js
+[Thu Feb 06 11:15:12.475835 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54405] Not Found: /static/rest_framework/js/prettify-min.js
+[Thu Feb 06 11:15:12.482206 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54410] Not Found: /static/rest_framework/js/default.js
+[Thu Feb 06 11:15:12.512948 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54407] Not Found: /static/rest_framework/js/load-ajax-form.js
+[Thu Feb 06 11:15:12.608242 2025] [wsgi:error] [pid 2677806] [remote 152.58.122.52:54407] Not Found: /favicon.ico
+[Thu Feb 06 11:16:18.486347 2025] [wsgi:error] [pid 2678093] [remote 152.58.122.52:54430] Forbidden: /myapp/users/
+[Thu Feb 06 11:16:19.030560 2025] [wsgi:error] [pid 2678093] [remote 152.58.122.52:54433] Not Found: /favicon.ico
